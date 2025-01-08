@@ -1,5 +1,4 @@
-    --Made by felixsowndemise#6225
-    
+
     
     
         game.StarterGui:SetCore("SendNotification", { --Loadup Notification
